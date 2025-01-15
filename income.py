@@ -1,4 +1,3 @@
-
 income=int(input("enter income "))
 if income<=250000:
     tax=0
